@@ -1,1 +1,1 @@
-window.alert("Under Construction. enjoy this mosaic🤙");
+window.alert("Under Construction🤙 hey@ndrewgood.com");
